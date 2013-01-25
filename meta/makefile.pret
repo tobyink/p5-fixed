@@ -1,0 +1,11 @@
+# This file provides instructions for packaging.
+
+`Fixed`
+	perl_version_from m`Fixed`;
+	version_from      m`Fixed`;
+	readme_from       m`Fixed`;
+	requires          p`Keyword::Simple 0`;
+	requires          p`Readonly 0`;
+	recommends        p`Readonly::XS 0`;
+.
+
