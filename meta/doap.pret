@@ -5,7 +5,7 @@
 `Fixed`
 	:programming-language "Perl" ;
 	:shortdesc            "a readonly variable that you can assign to";
-	:repository           [ a :HgRepository; :browse <https://bitbucket.org/release/p5-fixed> ];
+	:repository           [ a :GitRepository; :browse <https://github.com/release/p5-fixed> ];
 	:homepage             <https://metacpan.org/release/Fixed>;
 	:download-page        <https://metacpan.org/release/Fixed>;
 	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=Fixed>;
