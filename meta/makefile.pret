@@ -1,0 +1,7 @@
+@prefix deps:  <http://ontologi.es/doap-deps#> .
+
+<http://purl.org/NET/cpan-uri/dist/Fixed/project>
+	deps:runtime-recommendation      [ deps:on "Readonly::XS 0"^^deps:CpanId ];
+	deps:runtime-requirement         [ deps:on "Keyword::Simple 0"^^deps:CpanId ];
+	deps:runtime-requirement         [ deps:on "Readonly 0"^^deps:CpanId ].
+
