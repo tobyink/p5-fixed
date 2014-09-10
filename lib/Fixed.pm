@@ -6,7 +6,7 @@ use warnings;
 
 BEGIN {
 	$Fixed::AUTHORITY = 'cpan:TOBYINK';
-	$Fixed::VERSION   = '0.001';
+	$Fixed::VERSION   = '0.002';
 }
 
 use Readonly;
