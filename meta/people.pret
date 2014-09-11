@@ -6,3 +6,6 @@ cpan:TOBYINK
 	:name  "Toby Inkster";
 	:mbox  <mailto:tobyink@cpan.org>.
 
+<urn:uuid:26bd4917-ff58-4e17-b2ee-4e81abe27f19>
+	:name "David Steinbrunner";
+	:mbox <mailto:dsteinbrunner@pobox.com>.

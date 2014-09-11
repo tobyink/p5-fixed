@@ -11,3 +11,14 @@
 		item "Switch to Dist::Inkt."^^Packaging;
 	].
 
+`Fixed 0.003 cpan:TOBYINK`
+	issued    2014-09-11;
+	changeset [
+		item [
+			a dcs:Packaging;
+			label "Fix repo metadata.";
+			dcs:fixes RT#90639;
+			dcs:thanks <urn:uuid:26bd4917-ff58-4e17-b2ee-4e81abe27f19>;
+		];
+	].
+
